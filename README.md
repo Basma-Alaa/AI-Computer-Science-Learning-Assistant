@@ -1,5 +1,3 @@
-<img width="1747" height="787" alt="Screenshot 2026-09-10 230525" src="https://github.com/user-attachments/assets/e84416b1-f637-4f93-b01f-24a53963ca74" />
-<img width="1738" height="777" alt="Screenshot 2026-09-10 230451" src="https://github.com/user-attachments/assets/56017d14-44a8-42f2-9824-d07e7e8d85f2" />
 # 🤖 AI & Computer Science Learning Assistant
 
 A Retrieval-Augmented Generation (RAG) assistant that answers computer science and AI questions grounded strictly in local PDF documents, complete with page citations.
@@ -59,3 +57,12 @@ A Retrieval-Augmented Generation (RAG) assistant that answers computer science a
 │   └── requirements.txt
 ├── .gitignore
 └── README.md
+
+
+
+<img width="1738" height="777" alt="Screenshot 2026-09-10 230451" src="https://github.com/user-attachments/assets/56017d14-44a8-42f2-9824-d07e7e8d85f2" />
+______________________________________________________________________________________________________________________________________________________________
+
+<img width="1747" height="787" alt="Screenshot 2026-09-10 230525" src="https://github.com/user-attachments/assets/e84416b1-f637-4f93-b01f-24a53963ca74" />
+
+
