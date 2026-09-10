@@ -726,8 +726,3 @@ The project implements the complete **Core Track — Text-based RAG Assistant**,
 # 📄 License
 
 This project was created for educational and training purposes.
-
-```
-
-
-
