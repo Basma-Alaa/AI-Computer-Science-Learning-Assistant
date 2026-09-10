@@ -59,6 +59,10 @@ A Retrieval-Augmented Generation (RAG) assistant that answers computer science a
 └── README.md
 ```
 
+![Interface Screenshot 2](https://github.com/user-attachments/assets/60300f90-6012-4889-a81d-865a8ea48e70)
+
+___________________________________________________________________________________________________________________________________________________________________
+
 ![Interface Screenshot 1](https://github.com/user-attachments/assets/783634da-c002-44b1-97b1-cf5a9ccc4cb0)
 
-![Interface Screenshot 2](https://github.com/user-attachments/assets/60300f90-6012-4889-a81d-865a8ea48e70)
+
