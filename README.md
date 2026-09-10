@@ -57,7 +57,6 @@ A Retrieval-Augmented Generation (RAG) assistant that answers computer science a
 │   └── requirements.txt
 ├── .gitignore
 └── README.md
----
 
 
 ![Interface Screenshot 1](https://github.com/user-attachments/assets/783634da-c002-44b1-97b1-cf5a9ccc4cb0)
