@@ -647,17 +647,14 @@ The main goals of this project are to:
 
 ### Streamlit Frontend
 
-![Streamlit Frontend](YOUR_FRONTEND_SCREENSHOT_URL)
+<img width="1738" height="777" alt="Screenshot 2026-09-10 230451" src="https://github.com/user-attachments/assets/e96d249f-8b6a-4457-80ca-0c5693b8c33a" />
+
 
 ### FastAPI Swagger Documentation
 
-![FastAPI Swagger](YOUR_SWAGGER_SCREENSHOT_URL)
+<img width="1852" height="895" alt="image" src="https://github.com/user-attachments/assets/ff0b2cb0-3297-4a53-941c-8b94b1d74166" />
 
-### RAG Notebook
 
-![RAG Notebook](YOUR_NOTEBOOK_SCREENSHOT_URL)
-
-> Replace the screenshot placeholders above with the GitHub image links for your actual screenshots.
 
 ---
 
@@ -732,10 +729,5 @@ This project was created for educational and training purposes.
 
 ```
 
-![Interface Screenshot 2](https://github.com/user-attachments/assets/60300f90-6012-4889-a81d-865a8ea48e70)
-
-___________________________________________________________________________________________________________________________________________________________________
-
-![Interface Screenshot 1](https://github.com/user-attachments/assets/783634da-c002-44b1-97b1-cf5a9ccc4cb0)
 
 
