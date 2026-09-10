@@ -647,7 +647,7 @@ The main goals of this project are to:
 
 ### Streamlit Frontend
 
-<img width="1738" height="777" alt="Screenshot 2026-09-10 230451" src="https://github.com/user-attachments/assets/e96d249f-8b6a-4457-80ca-0c5693b8c33a" />
+<img width="1747" height="787" alt="Screenshot 2026-09-10 230525" src="https://github.com/user-attachments/assets/f5428903-148a-4dd9-8934-df39751cac4f" />
 
 
 ### FastAPI Swagger Documentation
